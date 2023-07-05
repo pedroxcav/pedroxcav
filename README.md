@@ -1,4 +1,6 @@
 <img src="animation.gif">
+
+## Sobre mim
 <p>
 Olá! Meu nome é Pedro Cavalcanti. Desde muito novinho sempre me interessei muito por tecnologia, ainda não sabia ao certo o que era ser um "desenvolvedor", mas com certeza já sabia o que queria. Hoje, curso Ciência da Computação na Universidade São Judas Tadeu e conheço linguagens como Java, Python e SQL. Também tenho como objetivo entrar no mercado de trabalho e encontrar um estágio onde possa contribuir e alinhar os meus conhecimentos e competências. Muito prazer!
 </p>
