@@ -1,12 +1,11 @@
 <img src="animation.gif">
 
-<div align="center">
-
-## Sobre mim
+<h2 align="center">Sobre mim</h2>
 <p>
 Olá! Meu nome é Pedro Cavalcanti. Desde muito novinho sempre me interessei muito por tecnologia, ainda não sabia ao certo o que era ser um "desenvolvedor", mas com certeza já sabia o que queria. Hoje, curso Ciência da Computação na Universidade São Judas Tadeu e conheço linguagens como Java, Python e SQL. Também tenho como objetivo entrar no mercado de trabalho e encontrar um estágio onde possa contribuir e alinhar os meus conhecimentos e competências. Muito prazer!
 </p>
 
+<div align="center">
 <p>
   <img width="160" src="https://skillicons.dev/icons?i=java,mysql,python,git">
 </p>
