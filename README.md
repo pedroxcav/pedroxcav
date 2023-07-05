@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="animation.gif">
+<p>
+Olá! Meu nome é Pedro Cavalcanti. Desde muito novinho sempre me interessei muito por tecnologia, ainda não sabia ao certo o que era ser um "desenvolvedor", mas com certeza já sabia o que queria. Hoje, curso Ciência da Computação na Universidade São Judas Tadeu e conheço linguagens como Java, Python e SQL. Também tenho como objetivo entrar no mercado de trabalho e encontrar um estágio onde possa contribuir e alinhar os meus conhecimentos e competências. Muito prazer!
+</p>
 
-<!--
-**pedroxcav/pedroxcav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<p>
+  <img width="160" src="https://skillicons.dev/icons?i=java,mysql,python,git">
+</p>
+  
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroxcav&theme=tokyonight&hide_border=true)|
+|:-:|
 
-Here are some ideas to get you started:
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroxcav&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroxcav&layout=donut&theme=tokyonight&hide_border=true)|
+|:-:|:-:|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/pedroxcav/pedroxcav/blob/output/github-contribution-grid-snake.svg)
+</div>
