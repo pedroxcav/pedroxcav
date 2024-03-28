@@ -7,7 +7,7 @@
 
 🔠 A english lover at <a href="https://www.wizard.com.br/">Wizard School</a>
 
-📕 Studying API Restful and Design Patterns
+📕 Studying Restful API and Design Patterns
 
 <a href="https://pt.bloggif.com/" title="Montagem de fotos"><img src="https://data.bloggif.com/distant/user/store/d/0/2/f/1d1d9d3a3745b8d60b2153014b6af20d.gif" alt="Montagem criada Bloggif" width="355" height="199" /></a>
 
