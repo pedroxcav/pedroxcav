@@ -1,20 +1,32 @@
-<img src="animation.gif">
+### About Me
+<code>System.out.println("Hello, world! Welcome to my Github.");</code>
 
-<h2 align="center">Sobre mim</h2>
-<p align="justify">
-‎ ‎ ‎ ‎ ‎ ‎ ‎ Olá! Meu nome é Pedro Cavalcanti. Desde muito novinho sempre me interessei muito por tecnologia, ainda não sabia ao certo o que era ser um "desenvolvedor", mas com certeza já sabia o que queria. Hoje, curso Ciência da Computação na Universidade São Judas Tadeu e conheço linguagens como Java, Python e SQL. Também tenho como objetivo entrar no mercado de trabalho e encontrar um estágio onde possa contribuir e alinhar meus conhecimentos e competências. Muito prazer!
-</p>
+👨🏼‍💻 A Back-end developer with Java
 
-<div align="center">
-<p>
-  <img width="160" src="https://skillicons.dev/icons?i=java,mysql,python,git">
-</p>
-  
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroxcav&theme=tokyonight&hide_border=true)|
-|:-:|
+👨🏻‍🎓 Student of Computer Science at <a href="www.usjt.br">Universidade São Judas Tadeu</a>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroxcav&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroxcav&layout=donut&theme=tokyonight&hide_border=true)|
-|:-:|:-:|
+🔠 A english lover at <a href="https:www.wizard.com.br">Wizard School</a>
 
-![Snake animation](https://github.com/pedroxcav/pedroxcav/blob/output/github-contribution-grid-snake.svg)
-</div>
+📕 Studying API Restful and Design Patterns
+
+### Tech Knowledge
+Java Foundations (OOP)
+
+Data Structure with Streams API
+
+Dependency Management with Maven
+
+Developing Tests with JUnit 5 and Mockito
+
+Spring Boot (Web, Data JPA, Security)
+
+Developing Rest APIs with Swagger
+
+<img width="250" src="https://skillicons.dev/icons?i=java,maven,spring,python,postgres,mysql">
+
+### Social Medias
+My professional profile at <a href="https:www.wizard.com.br">LinkedIn</a>
+
+My personal profile at <a href="https:www.wizard.com.br">Instagram</a> too
+
+You can also email me trough pedroxcav@icloud.com
