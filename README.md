@@ -9,7 +9,7 @@
 
 📕 Studying API Restful and Design Patterns
 
-<a href="https://pt.bloggif.com/" title="Montagem de fotos"><img src="https://data.bloggif.com/distant/user/store/e/4/e/a/6d86c42290010f9da4ef0526e890ae4e.gif" alt="Montagem criada Bloggif" width="330" height="185" /></a>
+<img src="readmegif.gif">
 
 ### Tech Knowledge
 Java Foundations (OOP)
