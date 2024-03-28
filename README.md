@@ -3,9 +3,9 @@
 
 👨🏼‍💻 A Back-end developer with Java
 
-👨🏻‍🎓 Computer Science student at <a href="www.usjt.br">São Judas</a>
+👨🏻‍🎓 Computer Science student at <a href="[www.usjt.br](https://www.usjt.br/)">São Judas</a>
 
-🔠 A english lover at <a href="https:www.wizard.com.br">Wizard School</a>
+🔠 A english lover at <a href="[https:www.wizard.com.br](https://www.wizard.com.br/)">Wizard School</a>
 
 📕 Studying API Restful and Design Patterns
 
@@ -25,8 +25,8 @@ Developing Rest APIs with Swagger
 <img width="250" src="https://skillicons.dev/icons?i=java,maven,spring,python,postgres,mysql">
 
 ### Social Medias
-My professional profile at <a href="https:www.wizard.com.br">LinkedIn</a>
+My professional profile at <a href="www.linkedin.com/in/pedroxcav/">LinkedIn</a>
 
-My personal profile at <a href="https:www.wizard.com.br">Instagram</a> too
+My personal profile at <a href="[https:www.wizard.com.br](https://www.instagram.com/pedroxcav/)">Instagram</a> too
 
 You can also email me trough <a href="mailto:pedroxcav@gmail.com?subject=Contato via Github">email</a>
