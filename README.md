@@ -1,9 +1,9 @@
 ### About Me
-<code>System.out.println("Hello, world! Welcome to my Github.");</code>
+<code>System.out.println("Hello, world!");</code>
 
 👨🏼‍💻 A Back-end developer with Java
 
-👨🏻‍🎓 Student of Computer Science at <a href="www.usjt.br">Universidade São Judas Tadeu</a>
+👨🏻‍🎓 Computer Science student at <a href="www.usjt.br">São Judas</a>
 
 🔠 A english lover at <a href="https:www.wizard.com.br">Wizard School</a>
 
@@ -29,4 +29,4 @@ My professional profile at <a href="https:www.wizard.com.br">LinkedIn</a>
 
 My personal profile at <a href="https:www.wizard.com.br">Instagram</a> too
 
-You can also email me trough pedroxcav@icloud.com
+You can also email me trough <a href="mailto:pedroxcav@gmail.com?subject=Contato via Github">email</a>
