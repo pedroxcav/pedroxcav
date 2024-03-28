@@ -5,9 +5,9 @@
 
 👨🏻‍🎓 Computer Science student at <a href="https://www.usjt.br/">São Judas</a>
 
-🔠 A english lover at <a href="https://www.wizard.com.br/">Wizard School</a>
+🔠 A English lover at <a href="https://www.wizard.com.br/">Wizard School</a>
 
-📕 Studying Restful API and Design Patterns
+📕 Studying RESTful API and Design Patterns
 
 <a href="https://pt.bloggif.com/" title="Montagem de fotos"><img src="https://data.bloggif.com/distant/user/store/d/0/2/f/1d1d9d3a3745b8d60b2153014b6af20d.gif" alt="Montagem criada Bloggif" width="355" height="199" /></a>
 
@@ -31,4 +31,4 @@ My professional profile at <a href="https://www.linkedin.com/in/pedroxcav/">Link
 
 My personal profile at <a href="https://www.instagram.com/pedroxcav/">Instagram</a> too
 
-You can also email me trough <a href="mailto:pedroxcav@gmail.com?subject=Contato via Github">email</a>
+You can also email me trough <a href="mailto:pedroxcav@icloud.com?subject=Contato+via+Github">email</a>
