@@ -31,4 +31,4 @@ My professional profile at <a href="https://www.linkedin.com/in/pedroxcav/">Link
 
 My personal profile at <a href="https://www.instagram.com/pedroxcav/">Instagram</a> too
 
-You can also email me trough <a href="mailto:pedroxcav@icloud.com?subject=Contato+via+Github">email</a>
+You can also email me trough <a href="mailto:pedroxcav@icloud.com?subject=Contato via Github">email</a>
