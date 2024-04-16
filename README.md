@@ -24,7 +24,6 @@ Developing tests with JUnit 5 e Mockito
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
 #### Tools
-
 Code versioning with GIT
 
 Implementing MySQL Database
@@ -35,7 +34,6 @@ Developing APIs with Postman and Swagger
 
 ![MysQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-<img width=28 src="https://skillicons.dev/icons?i=git" />
 ![Idea](https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=white&style=for-the-badge)
 
 ### Social Medias
