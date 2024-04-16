@@ -37,8 +37,8 @@ Developing APIs with Postman and Swagger
 ![Idea](https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=white&style=for-the-badge)
 
 ### Social Medias
-My professional profile at <a href="https://www.linkedin.com/in/pedroxcav/">LinkedIn</a>
+Here are some of my social profiles:
+- Message me on Linkedin [here](https://www.linkedin.com/in/pedroxcav/)
+- Follow me on Instagram [here](https://www.instagram.com/pedroxcav/)
+- Send me an email right [here](mailto:pedroxcav@icloud.com)
 
-My personal profile at <a href="https://www.instagram.com/pedroxcav/">Instagram</a> too
-
-You can also email me trough <a href="mailto:pedroxcav@icloud.com?subject=Contato via Github">email</a>
