@@ -9,22 +9,33 @@
 
 📕 Studying RESTful API and Design Patterns
 
-<a href="https://pt.bloggif.com/" title="Montagem de fotos"><img src="https://data.bloggif.com/distant/user/store/d/0/2/f/1d1d9d3a3745b8d60b2153014b6af20d.gif" alt="Montagem criada Bloggif" width="355" height="199" /></a>
+<img src="https://data.bloggif.com/distant/user/store/d/0/2/f/1d1d9d3a3745b8d60b2153014b6af20d.gif" alt="Montagem criada Bloggif" width="355" height="199" />
 
 ### Tech Knowledge
-Java Foundations (OOP)
 
-Data Structure with Streams API
-
-Dependency Management with Maven
-
-Developing Tests with JUnit 5 and Mockito
+#### Main
+Java Programming Language
 
 Spring Boot (Web, Data JPA, Security)
 
-Developing Rest APIs with Swagger
+Developing tests with JUnit 5 e Mockito
 
-<img width="250" src="https://skillicons.dev/icons?i=java,maven,spring,python,postgres,mysql">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
+#### Tools
+
+Code versioning with GIT
+
+Implementing MySQL Database
+
+Dependency Management with Maven
+
+Developing APIs with Postman and Swagger
+
+![MysQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![InteliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 
 ### Social Medias
 My professional profile at <a href="https://www.linkedin.com/in/pedroxcav/">LinkedIn</a>
