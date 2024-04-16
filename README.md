@@ -13,7 +13,7 @@
 
 ### Tech Knowledge
 
-#### Main
+#### Main Stack
 Java Programming Language
 
 Spring Boot (Web, Data JPA, Security)
@@ -23,7 +23,7 @@ Developing tests with JUnit 5 e Mockito
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
-#### Tools
+#### Used Tools
 Code versioning with GIT
 
 Implementing MySQL Database
