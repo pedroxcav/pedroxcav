@@ -9,7 +9,7 @@
 
 📕 Studying RESTful API and Design Patterns
 
-<img src="https://data.bloggif.com/distant/user/store/d/0/2/f/1d1d9d3a3745b8d60b2153014b6af20d.gif" alt="Montagem criada Bloggif" width="355" height="199" />
+<img src="image.gif"/>
 
 ### Tech Knowledge
 
@@ -40,5 +40,5 @@ Developing APIs with Postman and Swagger
 Here are some of my social profiles:
 - Message me on Linkedin [here](https://www.linkedin.com/in/pedroxcav/)
 - Follow me on Instagram [here](https://www.instagram.com/pedroxcav/)
-- Send me an email right [here](mailto:pedroxcav@icloud.com)
+- Send me an email right [here](mailto:pedroxcav@gmail.com)
 
