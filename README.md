@@ -36,7 +36,7 @@ Developing APIs with Postman and Swagger
 ![Postman](https://img.shields.io/badge/Postman-3b438b.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Idea](https://img.shields.io/badge/IntelliJ-343265?logo=intellij-idea&logoColor=white&style=for-the-badge)
 
-### Social Medias 
+### Social Medias 🌐
 Here are some of my social profiles:
 - Message me on Linkedin [here](https://www.linkedin.com/in/pedroxcav/)
 - Follow me on Instagram [here](https://www.instagram.com/pedroxcav/)
