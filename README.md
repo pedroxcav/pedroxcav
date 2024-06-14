@@ -26,7 +26,7 @@ Developing tests with JUnit 5 and Mockito
 #### Used Tools
 Code versioning with GIT
 
-Implementing MySQL Database
+Implementing SQL Database
 
 Dependency Management with Maven
 
