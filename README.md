@@ -1,7 +1,7 @@
 ### About Me
 <code>System.out.println("Hello, world!");</code>
 
-👨🏼‍💻 A Dveloper with Java
+👨🏼‍💻 A Developer with Java
 
 👨🏻‍🎓 Computer Science student at <a href="https://www.usjt.br/">São Judas</a>
 
