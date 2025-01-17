@@ -1,11 +1,11 @@
 ### About Me
 <code>System.out.println("Hello, world!");</code>
 
-👨🏼‍💻 A Back-end developer with Java
+👨🏼‍💻 A Dveloper with Java
 
 👨🏻‍🎓 Computer Science student at <a href="https://www.usjt.br/">São Judas</a>
 
-🔠 A English lover at <a href="https://www.wizard.com.br/">Wizard School</a>
+🔠 A English teacher at <a href="https://www.wizard.com.br/">Wizard School</a>
 
 📕 Studying RESTful API and Design Patterns
 
