@@ -5,7 +5,7 @@
 
 👨🏻‍🎓 Computer Science student at <a href="https://www.usjt.br/">São Judas</a>
 
-🔠 A English teacher at <a href="https://www.wizard.com.br/">Wizard School</a>
+🔠 An English teacher at <a href="https://www.wizard.com.br/">Wizard School</a>
 
 📕 Studying RESTful API and Design Patterns
 
