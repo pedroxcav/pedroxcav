@@ -1,13 +1,13 @@
 ### About Me
 <code>System.out.println("Hello, world!");</code>
 
-👨🏼‍💻 A Developer with Java
+👨🏼‍💻 Software QA Intern at <a href="https://testrigor.com/">testRigor</a>
 
 👨🏻‍🎓 Computer Science student at <a href="https://www.usjt.br/">São Judas</a>
 
 🔠 An English teacher at <a href="https://www.wizard.com.br/">Wizard School</a>
 
-📕 Studying RESTful API and Design Patterns
+📕 Studying Testing Automation and REST APIs
 
 <img src="image.gif"/>
 
