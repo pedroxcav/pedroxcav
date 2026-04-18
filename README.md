@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 ![Pedro Cavalcanti](terminal.svg)
 
