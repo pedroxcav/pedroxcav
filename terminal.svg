@@ -1,14 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="740" height="980" viewBox="0 0 740 980">
-  <defs>
-    <style>
-      text { font-family: 'Courier New', Courier, monospace; }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="960" viewBox="0 0 740 960">
+  <defs><style>text { font-family: 'Courier New', Courier, monospace; }</style></defs>
 
-  <!-- Background -->
-  <rect width="740" height="980" rx="12" fill="#0d0d0d"/>
-
-  <!-- Title bar -->
+  <rect width="740" height="960" rx="12" fill="#0d0d0d"/>
   <rect width="740" height="40" rx="12" fill="#1a1a1a"/>
   <rect y="28" width="740" height="12" fill="#1a1a1a"/>
   <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
@@ -16,152 +9,146 @@
   <circle cx="64" cy="20" r="6" fill="#28ca41"/>
   <text x="370" y="25" text-anchor="middle" fill="#555" font-size="12">pedroxcav — README.md</text>
 
-  <!-- SECTION: cat Pedro.java -->
-  <text x="28" y="72" fill="#555" font-size="13">$</text>
-  <text x="42" y="72" fill="#33ff33" font-size="13">cat Pedro.java</text>
+  <!-- cat Pedro.java -->
+  <text x="28" y="70" fill="#555" font-size="13">$</text>
+  <text x="42" y="70" fill="#33ff33" font-size="13">cat Pedro.java</text>
 
-  <text x="28" y="96" fill="#666" font-size="12">public class Pedro extends</text>
-  <text x="233" y="96" fill="#ffbd2e" font-size="12">Solver</text>
-  <text x="278" y="96" fill="#666" font-size="12">{</text>
+  <text x="28" y="96" fill="#666" font-size="12">public class Pedro extends </text>
+  <text x="228" y="96" fill="#ffbd2e" font-size="12">Solver</text>
+  <text x="274" y="96" fill="#666" font-size="12"> {</text>
 
-  <text x="48" y="114" fill="#555" font-size="12">String[] currentFocus  = {</text>
-  <text x="226" y="114" fill="#00d4ff" font-size="12">"AI Agents"</text>
-  <text x="306" y="114" fill="#555" font-size="12">,</text>
-  <text x="314" y="114" fill="#00d4ff" font-size="12">"Process Automation"</text>
-  <text x="446" y="114" fill="#555" font-size="12">,</text>
-  <text x="454" y="114" fill="#00d4ff" font-size="12">"Data Analytics"</text>
-  <text x="566" y="114" fill="#555" font-size="12">};</text>
+  <text x="48" y="116" fill="#555" font-size="11.5">String[] currentFocus  = {</text>
+  <text x="224" y="116" fill="#00d4ff" font-size="11.5">"AI Agents"</text>
+  <text x="302" y="116" fill="#555" font-size="11.5">, </text>
+  <text x="316" y="116" fill="#00d4ff" font-size="11.5">"Process Automation"</text>
+  <text x="448" y="116" fill="#555" font-size="11.5">, </text>
+  <text x="462" y="116" fill="#00d4ff" font-size="11.5">"Data Analytics"</text>
+  <text x="570" y="116" fill="#555" font-size="11.5">};</text>
 
-  <text x="48" y="132" fill="#555" font-size="12">String workplace       =</text>
-  <text x="218" y="132" fill="#00d4ff" font-size="12">"Itaú Unibanco"</text>
-  <text x="340" y="132" fill="#555" font-size="12">;</text>
+  <text x="48" y="134" fill="#555" font-size="11.5">String workplace       = </text>
+  <text x="218" y="134" fill="#00d4ff" font-size="11.5">"Itaú Unibanco"</text>
+  <text x="340" y="134" fill="#555" font-size="11.5">;</text>
 
-  <text x="48" y="150" fill="#555" font-size="12">String degree          =</text>
-  <text x="218" y="150" fill="#00d4ff" font-size="12">"Computer Science @ São Judas (7th sem)"</text>
-  <text x="556" y="150" fill="#555" font-size="12">;</text>
+  <text x="48" y="152" fill="#555" font-size="11.5">String degree          = </text>
+  <text x="218" y="152" fill="#00d4ff" font-size="11.5">"Computer Science @ São Judas (7th sem)"</text>
+  <text x="552" y="152" fill="#555" font-size="11.5">;</text>
 
-  <text x="48" y="168" fill="#555" font-size="12">String superpower      =</text>
-  <text x="218" y="168" fill="#00d4ff" font-size="12">"Connecting business to technology"</text>
-  <text x="498" y="168" fill="#555" font-size="12">;</text>
+  <text x="48" y="170" fill="#555" font-size="11.5">String superpower      = </text>
+  <text x="218" y="170" fill="#00d4ff" font-size="11.5">"Connecting business to technology"</text>
+  <text x="498" y="170" fill="#555" font-size="11.5">;</text>
 
-  <text x="48" y="186" fill="#555" font-size="12">String[] languages     = {</text>
-  <text x="226" y="186" fill="#00d4ff" font-size="12">"pt-BR"</text>
-  <text x="278" y="186" fill="#555" font-size="12">,</text>
-  <text x="286" y="186" fill="#00d4ff" font-size="12">"en-US"</text>
-  <text x="338" y="186" fill="#555" font-size="12">};</text>
+  <text x="48" y="188" fill="#555" font-size="11.5">String[] languages     = {</text>
+  <text x="224" y="188" fill="#00d4ff" font-size="11.5">"pt-BR"</text>
+  <text x="276" y="188" fill="#555" font-size="11.5">, </text>
+  <text x="290" y="188" fill="#00d4ff" font-size="11.5">"en-US"</text>
+  <text x="342" y="188" fill="#555" font-size="11.5">};</text>
 
-  <text x="28" y="204" fill="#666" font-size="12">}</text>
+  <text x="28" y="206" fill="#666" font-size="12">}</text>
 
-  <!-- Divider -->
-  <text x="28" y="226" fill="#1f1f1f" font-size="12">──────────────────────────────────────────────────────────────</text>
+  <line x1="28" y1="222" x2="712" y2="222" stroke="#222" stroke-width="0.8"/>
 
-  <!-- SECTION: whoami -->
-  <text x="28" y="250" fill="#555" font-size="13">$</text>
-  <text x="42" y="250" fill="#33ff33" font-size="13">whoami</text>
+  <!-- whoami -->
+  <text x="28" y="244" fill="#555" font-size="13">$</text>
+  <text x="42" y="244" fill="#33ff33" font-size="13">whoami</text>
 
-  <text x="44" y="272" fill="#aaa" font-size="12">Hey, I'm</text>
-  <text x="112" y="272" fill="#33ff33" font-size="12">Pedro Cavalcanti.</text>
-  <text x="44" y="290" fill="#aaa" font-size="12">I sit at the intersection of</text>
-  <text x="236" y="290" fill="#ffbd2e" font-size="12">AI,</text>
-  <text x="260" y="290" fill="#ffbd2e" font-size="12">Automation</text>
-  <text x="346" y="290" fill="#aaa" font-size="12">and</text>
-  <text x="374" y="290" fill="#ffbd2e" font-size="12">Data Analytics</text>
-  <text x="482" y="290" fill="#aaa" font-size="12">—</text>
-  <text x="44" y="308" fill="#aaa" font-size="12">building things that actually run in production, not just on localhost.</text>
+  <text x="44" y="268" fill="#aaa" font-size="12">Hey, I'm </text>
+  <text x="112" y="268" fill="#33ff33" font-size="12">Pedro Cavalcanti.</text>
 
-  <text x="44" y="330" fill="#aaa" font-size="12">At</text>
-  <text x="62" y="330" fill="#33ff33" font-size="12">Itaú Unibanco,</text>
-  <text x="166" y="330" fill="#aaa" font-size="12">I built</text>
-  <text x="214" y="330" fill="#ffbd2e" font-size="12">Orquestra Flow</text>
-  <text x="328" y="330" fill="#aaa" font-size="12">— an AI agent that classifies</text>
-  <text x="44" y="348" fill="#aaa" font-size="12">operational email demands in</text>
-  <text x="236" y="348" fill="#ff6eb4" font-size="12">under 60 seconds,</text>
-  <text x="358" y="348" fill="#aaa" font-size="12">before they hit the SLA clock.</text>
+  <text x="44" y="288" fill="#aaa" font-size="12">I sit at the intersection of</text>
+  <text x="254" y="288" fill="#ffbd2e" font-size="12"> AI,</text>
+  <text x="284" y="288" fill="#ffbd2e" font-size="12"> Automation</text>
+  <text x="366" y="288" fill="#aaa" font-size="12"> and</text>
+  <text x="396" y="288" fill="#ffbd2e" font-size="12"> Data Analytics</text>
+  <text x="509" y="288" fill="#aaa" font-size="12"> —</text>
 
-  <text x="44" y="370" fill="#aaa" font-size="12">Before that? QA at a California-based startup — automated tests in plain</text>
-  <text x="44" y="388" fill="#aaa" font-size="12">English. And before that — English teacher. Yes, really.</text>
+  <text x="44" y="308" fill="#aaa" font-size="12">building things that run in production, not just on localhost.</text>
 
-  <text x="44" y="410" fill="#555" font-size="12">// The through-line: explaining complex things simply, bridging worlds.</text>
+  <text x="44" y="332" fill="#aaa" font-size="12">At </text>
+  <text x="62" y="332" fill="#33ff33" font-size="12">Itaú Unibanco,</text>
+  <text x="166" y="332" fill="#aaa" font-size="12"> I built </text>
+  <text x="220" y="332" fill="#ffbd2e" font-size="12">Orquestra Flow</text>
+  <text x="334" y="332" fill="#aaa" font-size="12"> — an AI agent that</text>
 
-  <!-- Divider -->
-  <text x="28" y="432" fill="#1f1f1f" font-size="12">──────────────────────────────────────────────────────────────</text>
+  <text x="44" y="352" fill="#aaa" font-size="12">classifies operational email demands in</text>
+  <text x="336" y="352" fill="#ff6eb4" font-size="12"> under 60 seconds,</text>
+  <text x="472" y="352" fill="#aaa" font-size="12"> before they hit the SLA clock.</text></text>
 
-  <!-- SECTION: ls stack -->
-  <text x="28" y="456" fill="#555" font-size="13">$</text>
-  <text x="42" y="456" fill="#33ff33" font-size="13">ls ./stack</text>
+  <text x="44" y="372" fill="#aaa" font-size="12">Before that? QA at a California-based startup — tests in plain English.</text>
 
-  <text x="44" y="478" fill="#555" font-size="12">code/</text>
-  <rect x="44" y="484" width="60" height="18" rx="3" fill="none" stroke="#33ff33" stroke-width="0.8"/>
-  <text x="74" y="497" text-anchor="middle" fill="#33ff33" font-size="11">Python</text>
-  <rect x="112" y="484" width="42" height="18" rx="3" fill="none" stroke="#33ff33" stroke-width="0.8"/>
-  <text x="133" y="497" text-anchor="middle" fill="#33ff33" font-size="11">Java</text>
-  <rect x="162" y="484" width="34" height="18" rx="3" fill="none" stroke="#33ff33" stroke-width="0.8"/>
-  <text x="179" y="497" text-anchor="middle" fill="#33ff33" font-size="11">SQL</text>
+  <text x="44" y="392" fill="#aaa" font-size="12">And before that — English teacher. Yes, really.</text>
 
-  <text x="44" y="522" fill="#555" font-size="12">ai-automation/</text>
-  <rect x="44" y="528" width="108" height="18" rx="3" fill="none" stroke="#ffbd2e" stroke-width="0.8"/>
-  <text x="98" y="541" text-anchor="middle" fill="#ffbd2e" font-size="11">Copilot Studio</text>
-  <rect x="160" y="528" width="114" height="18" rx="3" fill="none" stroke="#ffbd2e" stroke-width="0.8"/>
-  <text x="217" y="541" text-anchor="middle" fill="#ffbd2e" font-size="11">Power Automate</text>
-  <rect x="282" y="528" width="78" height="18" rx="3" fill="none" stroke="#ffbd2e" stroke-width="0.8"/>
-  <text x="321" y="541" text-anchor="middle" fill="#ffbd2e" font-size="11">GenAI / LLM</text>
+  <text x="44" y="414" fill="#444" font-size="12">// The through-line: explaining complex things simply, bridging worlds.</text>
 
-  <text x="44" y="566" fill="#555" font-size="12">tools/</text>
-  <rect x="44" y="572" width="34" height="18" rx="3" fill="none" stroke="#00d4ff" stroke-width="0.8"/>
-  <text x="61" y="585" text-anchor="middle" fill="#00d4ff" font-size="11">Git</text>
-  <rect x="86" y="572" width="60" height="18" rx="3" fill="none" stroke="#00d4ff" stroke-width="0.8"/>
-  <text x="116" y="585" text-anchor="middle" fill="#00d4ff" font-size="11">GitHub</text>
-  <rect x="154" y="572" width="78" height="18" rx="3" fill="none" stroke="#00d4ff" stroke-width="0.8"/>
-  <text x="193" y="585" text-anchor="middle" fill="#00d4ff" font-size="11">REST APIs</text>
+  <line x1="28" y1="430" x2="712" y2="430" stroke="#222" stroke-width="0.8"/>
 
-  <!-- Divider -->
-  <text x="28" y="614" fill="#1f1f1f" font-size="12">──────────────────────────────────────────────────────────────</text>
+  <!-- ls ./stack -->
+  <text x="28" y="452" fill="#555" font-size="13">$</text>
+  <text x="42" y="452" fill="#33ff33" font-size="13">ls ./stack</text>
 
-  <!-- SECTION: certifications -->
-  <text x="28" y="638" fill="#555" font-size="13">$</text>
-  <text x="42" y="638" fill="#33ff33" font-size="13">cat certifications.txt</text>
+  <text x="44" y="476" fill="#444" font-size="12">code/</text>
+  <rect x="44" y="482" width="62" height="20" rx="3" fill="none" stroke="#33ff33" stroke-width="0.8"/>
+  <text x="75" y="496" text-anchor="middle" fill="#33ff33" font-size="11">Python</text>
+  <rect x="116" y="482" width="44" height="20" rx="3" fill="none" stroke="#33ff33" stroke-width="0.8"/>
+  <text x="138" y="496" text-anchor="middle" fill="#33ff33" font-size="11">Java</text>
+  <rect x="170" y="482" width="36" height="20" rx="3" fill="none" stroke="#33ff33" stroke-width="0.8"/>
+  <text x="188" y="496" text-anchor="middle" fill="#33ff33" font-size="11">SQL</text>
 
-  <text x="44" y="662" fill="#ffbd2e" font-size="12">[2025]</text>
-  <text x="102" y="662" fill="#aaa" font-size="12">Practitioner – D&amp;A Foundation</text>
-  <text x="102" y="662" fill="#aaa" font-size="12">Practitioner – D&amp;A Foundation</text>
-  <text x="338" y="662" fill="#555" font-size="12">· Itaú Unibanco</text>
+  <text x="44" y="522" fill="#444" font-size="12">ai-automation/</text>
+  <rect x="44" y="528" width="112" height="20" rx="3" fill="none" stroke="#ffbd2e" stroke-width="0.8"/>
+  <text x="100" y="542" text-anchor="middle" fill="#ffbd2e" font-size="11">Copilot Studio</text>
+  <rect x="166" y="528" width="116" height="20" rx="3" fill="none" stroke="#ffbd2e" stroke-width="0.8"/>
+  <text x="224" y="542" text-anchor="middle" fill="#ffbd2e" font-size="11">Power Automate</text>
+  <rect x="292" y="528" width="80" height="20" rx="3" fill="none" stroke="#ffbd2e" stroke-width="0.8"/>
+  <text x="332" y="542" text-anchor="middle" fill="#ffbd2e" font-size="11">GenAI / LLM</text>
 
-  <text x="44" y="682" fill="#ffbd2e" font-size="12">[2025]</text>
-  <text x="102" y="682" fill="#aaa" font-size="12">AI-Driven Test Automation Engineer</text>
-  <text x="366" y="682" fill="#555" font-size="12">· testRigor</text>
+  <text x="44" y="568" fill="#444" font-size="12">tools/</text>
+  <rect x="44" y="574" width="36" height="20" rx="3" fill="none" stroke="#00d4ff" stroke-width="0.8"/>
+  <text x="62" y="588" text-anchor="middle" fill="#00d4ff" font-size="11">Git</text>
+  <rect x="90" y="574" width="62" height="20" rx="3" fill="none" stroke="#00d4ff" stroke-width="0.8"/>
+  <text x="121" y="588" text-anchor="middle" fill="#00d4ff" font-size="11">GitHub</text>
+  <rect x="162" y="574" width="80" height="20" rx="3" fill="none" stroke="#00d4ff" stroke-width="0.8"/>
+  <text x="202" y="588" text-anchor="middle" fill="#00d4ff" font-size="11">REST APIs</text>
 
-  <text x="44" y="702" fill="#ffbd2e" font-size="12">[2024]</text>
-  <text x="102" y="702" fill="#aaa" font-size="12">Java Developer · Full track</text>
-  <text x="278" y="702" fill="#555" font-size="12">— Foundations</text>
-  <text x="384" y="702" fill="#555" font-size="12">→</text>
-  <text x="400" y="702" fill="#aaa" font-size="12">Spring Framework</text>
+  <line x1="28" y1="608" x2="712" y2="608" stroke="#222" stroke-width="0.8"/>
 
-  <text x="44" y="722" fill="#ffbd2e" font-size="12">[2023]</text>
-  <text x="102" y="722" fill="#aaa" font-size="12">Python Programming</text>
-  <text x="252" y="722" fill="#555" font-size="12">· SENAI Roberto Simonsen</text>
+  <!-- certifications -->
+  <text x="28" y="630" fill="#555" font-size="13">$</text>
+  <text x="42" y="630" fill="#33ff33" font-size="13">cat certifications.txt</text>
 
-  <!-- Divider -->
-  <text x="28" y="750" fill="#1f1f1f" font-size="12">──────────────────────────────────────────────────────────────</text>
+  <text x="44" y="654" fill="#ffbd2e" font-size="12">[2025]</text>
+  <text x="104" y="654" fill="#aaa" font-size="12">Practitioner – D&amp;A Foundation</text>
+  <text x="340" y="654" fill="#444" font-size="12">· Itaú Unibanco</text>
 
-  <!-- SECTION: social -->
-  <text x="28" y="774" fill="#555" font-size="13">$</text>
-  <text x="42" y="774" fill="#33ff33" font-size="13">open --social</text>
+  <text x="44" y="674" fill="#ffbd2e" font-size="12">[2025]</text>
+  <text x="104" y="674" fill="#aaa" font-size="12">AI-Driven Test Automation Engineer</text>
+  <text x="366" y="674" fill="#444" font-size="12">· testRigor</text>
 
-  <text x="44" y="796" fill="#555" font-size="12">linkedin  //</text>
-  <text x="132" y="796" fill="#00d4ff" font-size="12">linkedin.com/in/pedroxcav</text>
+  <text x="44" y="694" fill="#ffbd2e" font-size="12">[2024]</text>
+  <text x="104" y="694" fill="#aaa" font-size="12">Java Developer · Full track — Foundations → Spring Framework</text>
 
-  <text x="44" y="816" fill="#555" font-size="12">instagram //</text>
-  <text x="132" y="816" fill="#ff6eb4" font-size="12">instagram.com/pedroxcav</text>
+  <text x="44" y="714" fill="#ffbd2e" font-size="12">[2023]</text>
+  <text x="104" y="714" fill="#aaa" font-size="12">Python Programming</text>
+  <text x="256" y="714" fill="#444" font-size="12">· SENAI Roberto Simonsen</text>
 
-  <text x="44" y="836" fill="#555" font-size="12">gmail     //</text>
-  <text x="132" y="836" fill="#ffbd2e" font-size="12">pedroxcav@gmail.com</text>
+  <line x1="28" y1="732" x2="712" y2="732" stroke="#222" stroke-width="0.8"/>
 
-  <!-- Divider -->
-  <text x="28" y="862" fill="#1f1f1f" font-size="12">──────────────────────────────────────────────────────────────</text>
+  <!-- social -->
+  <text x="28" y="754" fill="#555" font-size="13">$</text>
+  <text x="42" y="754" fill="#33ff33" font-size="13">open --social</text>
 
-  <!-- Final prompt + blinking cursor -->
-  <text x="28" y="896" fill="#555" font-size="13">$</text>
-  <rect x="42" y="882" width="8" height="15" fill="#33ff33">
+  <text x="44" y="778" fill="#444" font-size="12">linkedin  //</text>
+  <text x="140" y="778" fill="#00d4ff" font-size="12">linkedin.com/in/pedroxcav</text>
+
+  <text x="44" y="798" fill="#444" font-size="12">instagram //</text>
+  <text x="140" y="798" fill="#ff6eb4" font-size="12">instagram.com/pedroxcav</text>
+
+  <text x="44" y="818" fill="#444" font-size="12">gmail     //</text>
+  <text x="140" y="818" fill="#ffbd2e" font-size="12">pedroxcav@gmail.com</text>
+
+  <line x1="28" y1="838" x2="712" y2="838" stroke="#222" stroke-width="0.8"/>
+
+  <text x="28" y="868" fill="#555" font-size="13">$</text>
+  <rect x="42" y="854" width="8" height="15" fill="#33ff33">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
